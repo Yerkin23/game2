@@ -18,5 +18,9 @@ const wordList = [
   {
     word: 'puny',
     hint: 'small and weak in size or power'
+  },
+  {
+   word: 'sirk',
+   hint: 'first black teacher'
   }
 ];
